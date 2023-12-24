@@ -1,4 +1,4 @@
-## Olá, meu nomem é Romulo!
+## Olá, meu nome é Romulo!
 
 ```js
     var dev = {
